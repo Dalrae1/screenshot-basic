@@ -290,3 +290,6 @@ class ScreenshotUI {
         }
     }
 }
+
+const ui = new ScreenshotUI();
+ui.initialize();
